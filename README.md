@@ -29,13 +29,14 @@ AI Trip Planner is an advanced travel planning system that utilizes the **Google
 Users input their destination, trip duration, and travel preferences. The system processes the data using the **Google Gemini API** and suggests a personalized itinerary, including places to visit, activities, and travel routes. The user can customize their plan before finalizing it.
 
 ---
-### 📽️ Demo Video
-
-[Watch the demo on Google Drive](https://drive.google.com/file/d/1kUoylmSfftcF4kCaWaBViIlTQBqPXRdW/view?usp=sharing)
-
 
 ## 🧰 Technology Stack
 - **Frontend**: HTML, CSS, JavaScript, jQuery, Bootstrap  
 - **Backend**: Python, Django  
 - **Database**: SQLite  
-- **API**: Google Gemini API  
+- **API**: Google Gemini API
+
+---
+## 📽️ Demo Video
+
+[Watch the demo on Google Drive](https://drive.google.com/file/d/1kUoylmSfftcF4kCaWaBViIlTQBqPXRdW/view?usp=sharing)
